@@ -17,7 +17,7 @@ import plotly.express as px
 
 
 st.title('Stock Closing Price Trend')
-st.sidebar.write("Please enter a ticker and select a date range:")
+st.sidebar.write("Select plot parameters:")
 
 st.markdown(
     f'''
